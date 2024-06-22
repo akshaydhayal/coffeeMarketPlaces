@@ -22,7 +22,7 @@ app.listen(3001,()=>{
 // 1. create coffe shop                                done
 // 2. customer sign up/login                           done
 // 3. owner sign up/login                              done
-// 4. add menu item in a shop
+// 4. add menu item in a shop                          done
 // 5. get all coffee shops                             done
 // 6. get a particular coffee shop                     done
 
